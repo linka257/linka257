@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Linka Ndizeye 👋
+**AI for Business & Business Management (Hons) Student | Geneva, Switzerland**  
+Multilingual (**Kirundi Native / French C1 / English C1 / Swahili B1**) • **R • Power BI • Predictive Analytics • AI Strategy**
 
-<!--
-**linka257/linka257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in translating complex customer and operational datasets into clear visual insights and predictive models. Currently completing my dual degree at EU Business School Geneva and seeking a **Business Analysis, Data Analytics, Business Intelligence, or AI Strategy Internship starting June 2027**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Project
+* **[HomeShop Customer Churn Prediction & Retention Analytics](./homeshop-customer-churn-analytics)**  
+  End-to-end diagnostic (**Power BI**) and predictive modeling (**R**) case study on **24,017 retail records**, identifying key attrition drivers (+33.2% churn odds per support ticket) and simulating customer risk profiles (2.7% to 92.2%).
+
+---
+
+### Core Toolkit
+* **Analytics & Modeling:** R (`tidyverse`, `caret`, `pROC`, `car`), Logistic Regression, Hypothesis Testing
+* **Business Intelligence:** Power BI (Data Cleaning, Star-Schema Modeling, Interactive Dashboards), Excel
+* **Certifications:** AWS Machine Learning Learning Plan Certificate (2025)
+
+📫 **Connect with me:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/linkandizeye/)) | ndizeyelinka@gmail.com
