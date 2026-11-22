@@ -17,4 +17,4 @@ I specialize in translating complex customer and operational datasets into clear
 * **Business Intelligence:** Power BI (Data Cleaning, Star-Schema Modeling, Interactive Dashboards), Excel
 * **Certifications:** AWS Machine Learning Learning Plan Certificate (2025)
 
-📫 **Connect with me:** [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/linkandizeye/)) | ndizeyelinka@gmail.com
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/linkandizeye/) | ndizeyelinka@gmail.com
